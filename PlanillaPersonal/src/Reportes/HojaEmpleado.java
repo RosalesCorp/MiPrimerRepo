@@ -1,0 +1,5 @@
+package PlanillaPersonal;
+
+Class HojaEmpleado{
+
+}
